@@ -24,3 +24,10 @@ A simple and interactive To-Do List web application built using **HTML**, **CSS*
 3. Use the input box to start adding tasks!
 
 ---
+## 💡 Future Improvements
+
+- Add local storage to save tasks
+- Edit existing tasks
+- Filter tasks (all / completed / pending)
+
+---
